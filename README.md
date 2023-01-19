@@ -19,7 +19,7 @@ where you search marvels characters.
 
 3-favourites characters More-info page-
 
-![Screenshot_20230119_180919](https://user-images.githubusercontent.com/120721761/213445234-9c3060ea-3eab-4c94-b582-42242f18a6ec.png
-
-
 ![Screenshot_20230119_180953](https://user-images.githubusercontent.com/120721761/213445297-e1becc03-eec7-4d54-9eaa-070bfd6830d6.png)
+
+
+![Screenshot_20230119_180919](https://user-images.githubusercontent.com/120721761/213447988-9da9e5a6-ce20-4402-9972-bcd142268d33.png)
